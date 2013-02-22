@@ -1,0 +1,11 @@
+Django==1.4
+distribute==0.6.34
+django-ajax-selects==1.2.4
+gdata==2.0.16
+pygooglevoice==0.5
+simplejson==3.0.8
+stevedore==0.8
+virtualenv==1.8.4
+virtualenv-clone==0.2.4
+virtualenvwrapper==3.6
+wsgiref==0.1.2
